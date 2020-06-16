@@ -1,5 +1,5 @@
 # sheldon
-OpenCV and Arduino Codes for Vision Guided robotics event S.H.E.L.D.O.N., Kshitij 2016, Annual techno management fest of IIT, Kharagpur. The event was based on character recognition using image processing and equation optimization of the same characters decoded and finally solving the equation output the resulting value.
+OpenCV and Arduino Codes for Vision Guided robotics event S.H.E.L.D.O.N., Kshitij 2016, Annual techno management fest of IIT, Kharagpur. The event was based on character recognition using image processing and it involved performing equation optimization of the characters decoded and finally solving the equation to output the resulting value.
 
 The repository contains the code files for the sheldon event which include:
 
